@@ -1,0 +1,4 @@
+===Mass Pinger===
+
+Note: will not compile due to depending on a private lib, personal code backup only.
+To make the networking work it depends on libevquick.
